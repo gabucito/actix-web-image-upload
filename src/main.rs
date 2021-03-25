@@ -1,5 +1,4 @@
 use std::io::Write;
-use uuid::Uuid;
 use std::path::Path;
 
 use actix_multipart::Multipart;
